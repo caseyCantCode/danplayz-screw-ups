@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Primo Pinging @everyone",
+    "description": "On this day Dan didn't set Primo's allowed mentions so you could ping @everyone with a custom command.",
+    "date": "Mar 2, 2021",
+    "img": "https://discord.mx/V7Dq3yEwHh.png",
+    "id": "primoPing@everyone",
+    "btnId": "copyButtonPrimo@everyone"
+  },
+  {
+    "title": "VoidBots logging pinging people",
+    "description": "On this day Dan forgot that logs could be abused and people pinged people via the logs.",
+    "date": "Feb 20, 2021",
+    "img": "https://turtles-are.life/raw/Ew32B",
+    "id": "voidBotsLogsPing",
+    "btnId": "copyButtonVoidBotsLogsPing"
+  }
+]
