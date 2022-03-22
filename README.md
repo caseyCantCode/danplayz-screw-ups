@@ -1,5 +1,5 @@
 # danplayz-screw-ups
-A GitHub repo to document some of DanPlayz's scew ups. This is also used for [blame-dan.today](https://blame-dan.today)
+A GitHub repo to document some of DanPlayz's scew ups. This is also used for [blame-dan.today](https://blame-dan.today) (currently down)
 
 # Adding a screw up
 Just go to the JSON file and make pull request with the following:
